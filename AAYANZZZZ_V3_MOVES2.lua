@@ -1943,7 +1943,7 @@ btn("🚀 GOTO", P4, function()
 end)
 
 
-btn("FACE BANG 👄", P4, function() startTroll("facebang") end)
+btn("FAce 👄", P4, function() startTroll("facebang") end)
 
 btn("VIEW 👀", P4, function()
 	local t = getT()
@@ -1952,7 +1952,7 @@ btn("VIEW 👀", P4, function()
 	end
 end)
 
-btn("BANG ⚠️", P4, function() startTroll("bang") end)
+btn("fun⚠️", P4, function() startTroll("bang") end)
 btn("HEADSIT 👽", P4, function() startTroll("headsit") end)
 btn("FRONT SIT 💢", P4, function() startTroll("frontsit") end)
 
