@@ -1890,6 +1890,7 @@ end
 -- (the troll-mode function startTroll(mode) goes here)
 --==================================================
 
+
 local function startTroll(mode)
 Config.CurrentTroll = mode
 task.spawn(function()
